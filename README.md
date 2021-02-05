@@ -1,2 +1,2 @@
 # Microservices2021
-This repository contain microservices training assignment-1.
+This repository contain microservices training assignments
