@@ -23,8 +23,7 @@ namespace Web.HttpAggregator.Controllers
         public async Task<IEnumerable<DropdownDto>> GetFaculties()
         {
             var faculties = await HttpCall.GetRequest<List<DropdownDto>>("https://localhost:44358/Faculty/GetFaculties");
-            //var foods = await HttpCall.GetRequest<List<DropdownDto>>("https://localhost:44369/Dropdown/GetFoods");
-            //restaurants.AddRange(foods);
+           
             return faculties;
         }
 
