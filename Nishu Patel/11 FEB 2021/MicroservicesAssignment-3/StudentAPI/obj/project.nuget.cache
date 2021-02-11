@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeUb7I7ts0uKZvh1e6xj4h2s5HGzoGdjSgpWpg95hlXJott/CsdfIF7f/LDlml7d1Sbquf9ztINXByaSd6h8rA==",
+  "success": true,
+  "projectFilePath": "D:\\Microservices assignment GitHub Repo\\Microservices2021\\Nishu Patel\\11 FEB 2021\\Microservices assignment-3\\StudentAPI\\StudentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NISHU\\.nuget\\packages\\aspnetcoreratelimit\\3.2.2\\aspnetcoreratelimit.3.2.2.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.2\\swashbuckle.aspnetcore.6.0.2.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.2\\swashbuckle.aspnetcore.swagger.6.0.2.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.2\\swashbuckle.aspnetcore.swaggergen.6.0.2.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.2\\swashbuckle.aspnetcore.swaggerui.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

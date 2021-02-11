@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jLxMRue/xIjDqp5NXkBPAb3pa6S5VEeypseFVgP76yoGrIuPvLjBlNQTHUt2HOENlP6DtUg63km5dHpMpsEbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Microservices assignment GitHub Repo\\Microservices2021\\Nishu Patel\\11 FEB 2021\\Microservices assignment-3\\Web.HttpAggregator\\Web.HttpAggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NISHU\\.nuget\\packages\\aspnetcoreratelimit\\3.2.2\\aspnetcoreratelimit.3.2.2.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\NISHU\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\bin\Debug\netcoreapp3.1\FacultyEntities.deps.json
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\bin\Debug\netcoreapp3.1\FacultyEntities.dll
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\bin\Debug\netcoreapp3.1\FacultyEntities.pdb
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\obj\Debug\netcoreapp3.1\FacultyEntities.AssemblyInfoInputs.cache
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\obj\Debug\netcoreapp3.1\FacultyEntities.AssemblyInfo.cs
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\obj\Debug\netcoreapp3.1\FacultyEntities.csproj.CoreCompileInputs.cache
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\obj\Debug\netcoreapp3.1\FacultyEntities.dll
+C:\Users\NISHU\source\repos\Microservices assignment-3\FacultyEntities\obj\Debug\netcoreapp3.1\FacultyEntities.pdb
